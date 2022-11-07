@@ -103,7 +103,7 @@ var Mainnet = CHAIN_CONFIG{Name: "mainnet",
 	Dev_Address:             "dero1qykyta6ntpd27nl0yq4xtzaf4ls6p5e9pqu0k2x4x3pqq5xavjsdxqgny8270",
 	HF1_HEIGHT:              21480,
 	HF2_HEIGHT:              29000,
-	MAJOR_HF2_HEIGHT:        481600,
+	MAJOR_HF2_HEIGHT:        4816000,
 
 	Genesis_Tx: "" +
 		"01" + // version
